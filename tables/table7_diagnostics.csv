@@ -1,0 +1,8 @@
+,Value
+Breusch–Pagan LM statistic,1125.7101827096078
+Breusch–Pagan p-value,1.0727415065720032e-237
+"Residual autocorrelation (same firm, t vs t−1)",0.8509559901794328
+Durbin–Watson (firm-sorted),0.6080216192189386
+"Share of fitted values outside [0,1]",0.00038356427098815745
+Share of firm-years with zero debt,0.17063815505585656
+Residual skewness,1.0390889588716046

@@ -1,0 +1,11 @@
+Step,Firm-years,Firms
+"Raw download (FY2010–2020, INDL/STD/D/C screens)",103373,16110
+Unique firm-years,102408,16050
+Non-missing SIC code,102408,16050
+Exclude financials (SIC 6000–6999),62518,10092
+Exclude utilities (SIC 4900–4999),58939,9680
+Total assets > 0,56384,9381
+Total assets ≥ $10M,48094,7993
+Non-missing DLTT and DLC,47889,7988
+0 ≤ book leverage ≤ 1,46945,7912
+Non-missing determinants,41714,6937

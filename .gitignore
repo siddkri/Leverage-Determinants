@@ -1,0 +1,8 @@
+# Compustat is licensed by WRDS and must not be redistributed
+data/
+*.csv
+!tables/*.csv
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store

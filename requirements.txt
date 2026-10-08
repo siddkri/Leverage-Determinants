@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.2,<3
+matplotlib>=3.8
+statsmodels>=0.14
+linearmodels>=6.0
+scikit-learn>=1.4
+jupyter
+wrds  # optional, only needed for DATA_SOURCE = "wrds"
